@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ranapage.github.io/static/css/main.03cf0b65.chunk.css",
-    "main.js": "/ranapage.github.io/static/js/main.e26e317f.chunk.js",
-    "main.js.map": "/ranapage.github.io/static/js/main.e26e317f.chunk.js.map",
+    "main.js": "/ranapage.github.io/static/js/main.b8d62357.chunk.js",
+    "main.js.map": "/ranapage.github.io/static/js/main.b8d62357.chunk.js.map",
     "runtime-main.js": "/ranapage.github.io/static/js/runtime-main.a107698e.js",
     "runtime-main.js.map": "/ranapage.github.io/static/js/runtime-main.a107698e.js.map",
     "static/js/2.10106a0d.chunk.js": "/ranapage.github.io/static/js/2.10106a0d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a107698e.js",
     "static/js/2.10106a0d.chunk.js",
     "static/css/main.03cf0b65.chunk.css",
-    "static/js/main.e26e317f.chunk.js"
+    "static/js/main.b8d62357.chunk.js"
   ]
 }
